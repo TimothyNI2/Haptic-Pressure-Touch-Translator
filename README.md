@@ -17,9 +17,9 @@ When the user puts pressure on either its thumb, index or middle finger, the val
 Here is an approximate timeline of the time it took to get to the current status of this project and the projected timeline for its completion. 
 
 ## May
-- ~~**May 5**: Created Problem Statement~~
-- ~~**May 5-29**: Ideation & Research~~
-- ~~**May 30**: Selection of Haptic Translator~~ 
+- **May 5**: Created Problem Statement
+- **May 5-29**: Ideation & Research
+- **May 30**: Selection of Haptic Translator 
 
 ## June
 - **June 1**: Coding Kick off
@@ -27,5 +27,5 @@ Here is an approximate timeline of the time it took to get to the current status
 - **June 10-27**: Testing, Fixing and Validating Code
 - **June 27-30**: Code Clean Up
 - **June 31**: Code Completion 
-
+**<span style="color: green;">24 July</span>**: Created project repository on GitHub.
 
