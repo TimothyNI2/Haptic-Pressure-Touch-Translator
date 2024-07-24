@@ -13,6 +13,6 @@ When the user puts pressure on either its thumb, index or middle finger, the val
 - [Jumper Wires](https://www.amazon.ca/IZOKEE-240pcs-Solderless-Breadboard-Arduino/dp/B08151TQHG/ref=sr_1_5?crid=14QFZQNYWBW4&dib=eyJ2IjoiMSJ9.Wh9JUafydRlTlmY0ctqdTmibVyB-B5qdW2mxqlSCncCQqizSLH37ClCJkDapbNC6ox5Em82qFnws3pKNSlzkmjZL7Pkm8Bo9mBNvkGW5y0fbvCJhg9_j_5nEoxoM7Sj0xWiah6WZB6q5ykPV1fekkTYs9yhb8tMKtJ-baZ7fms2e09--0oqnJWfRWg8Q9A1J463N2V7RtuorcbG0oYZqRu0CWOByizgQcKEgSThv4GcSD1nVIpYAHuuLgCNfbLOBFbBHFhJ-mEZuQiCIgdS_5LQz3OwHv5qn7pXLBx2ObTE.wuocWnivZReh7g67MqyKoa3ahEYAEoyupv2i7VdSsBg&dib_tag=se&keywords=breadboard+wires&qid=1721780310&sprefix=bradboard+wires%2Caps%2C83&sr=8-5) x 13
 - 3D Printer Filament 
 
-
+.timeline
 
 
