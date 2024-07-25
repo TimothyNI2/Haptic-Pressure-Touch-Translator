@@ -49,7 +49,21 @@ This section details many problems we faced in our project fabrication along wit
 ### Constant Loop Paradox
 
 ### Problem
-The problem was that every time we applied pressure to the sensor, the circuit would infinitely apply the Morse character until it timed out. For example, when the value of Force Sensor 1 went over the threshold, instead of outputting a single ".", it would apply an indefinite amount. To elaborate, our code ran through the preset Arduino function void loop() and a for loop. However, whenever the code started running, the moment the sensor reading went passed the threshold, it would apply the "." for the amount of times the for loop condition was set and instantly leave the for loop for it to just rerun through the whole for loop again due to the void loop() function. 
+The problem was that every time we applied pressure to the sensor, the circuit would infinitely apply the Morse character until it timed out. For example, when the value of Force Sensor 1 went over the threshold, instead of outputting a single ".", it would apply an indefinite amount. To elaborate, our code ran through the preset Arduino function void loop() and a for loop. However, whenever the code started running, the moment the sensor reading went passed the threshold, it would apply the "." for the amount of times the for loop condition was set and instantly leave the for loop for it to just rerun through the whole for loop again due to the void loop() function. \n
+
+The thinking behind this coding logic was that the for loop would make it where 
+1. Determine whether the pressure applied passes the threshold
+2. If it does apply the character that corresponds to that specific sensor
+3. Rerun the for loop so the next character can be placed down
+4. Restart from step 1 \n
+
+Once the user has exhausted the limit of the for loop, it leaves the for loop and uses two arrays to convert the characters into a word. 
+
+### Solution
+Many implementations were added to ensure that the output of a Morse code block is limited to the number of times the pressure applied passed the threshold.
+- Getting rid of the for-loop and instead, only using the void loop() function, and else-if conditions to ensure that the character only outputs once. After that, the code restarts from the top.
+- Setting a timer after the character is outputted to give the sensor enough time to reset its value after being pressed on.
+- Setting the value of the Force Sensor to 0 at the end of each loop to reset the sensor and take away the possibility of still having old readings. 
 
 
 
