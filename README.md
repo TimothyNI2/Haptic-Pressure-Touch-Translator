@@ -20,28 +20,28 @@ When the user puts pressure on either its thumb, index or middle finger, the val
 Here is an approximate timeline of the time it took to get to the current status of this project and the projected timeline for its completion. 
 
 ### May
-- **May 5**: Created Problem Statement          
-- **May 5-29**: Ideation & Research            
-- **May 30**: Selection of Haptic Translator     
+- Created Problem Statement          
+- Ideation & Research            
+- Selection of Haptic Translator     
 
 ### June
-- **June 1**: Coding Kick off                  
-- **June 1-10**: Rough Code Mock Up            
-- **June 10-27**: Group Testing, Fixing and 
+- Coding Kick off                  
+- Rough Code Mock Up            
+- Group Testing, Fixing and 
   Validating Code                               
-- **June 27-30**: Code Clean Up 
-- **June 31**: Finalization of Code 
+- Code Clean Up 
+- Finalization of Code 
 
 ### July
-- **July 2-17**: CAD Design Mock-Ups 
-- **July 17-20**: Group Evaluation & Feedback 
-- **July 20-29**: Finalization of CAD 
+- CAD Design Mock-Ups 
+- Group Evaluation & Feedback 
+- Finalization of CAD 
 
 ### August 
-- **August 1-2**: 3D Print CAD Parts
-- **August 2-5**: Assembly
-- **August 5-9**: Testing and Validation
-- **August 10**: Projected Finish 
+- 3D Print CAD Parts
+- Assembly
+- Testing and Validation
+- Projected Finish 
 
 # Problems Encountered and Solutions 
 This section details many problems we faced in our project fabrication along with solutions on how we got around and rectified the situation. 
